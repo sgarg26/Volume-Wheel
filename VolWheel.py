@@ -21,7 +21,7 @@ while True:
 
     if line:
         string = line.decode() # convert byte value to a string
-        currPos = int(string) # convert string to an integer
+        currPos = int(string) # cast string to an integer
 
     if currPos == startPos:
         continue # if no change in rotary encoder, do nothing
