@@ -13,8 +13,6 @@ void setup() {
   pinMode(SW, INPUT_PULLUP);
 
   Serial.begin(9600);
-  Serial.println("This works");
-
   lastStateCLK = digitalRead(CLK);
 
 }
