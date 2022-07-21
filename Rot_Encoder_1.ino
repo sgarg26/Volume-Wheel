@@ -1,4 +1,4 @@
-#define CLK 2
+#define CLK 2 //values can be changed based on pin numbers
 #define DT 3
 #define SW 4
 
