@@ -1,3 +1,4 @@
+// Adapted from https://projecthub.arduino.cc/raikanrule/encoder-volume-control-13b702
 #define CLK 2 //values can be changed based on pin numbers
 #define DT 3
 #define SW 4
